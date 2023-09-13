@@ -1,0 +1,74 @@
+body{
+    background-color: papayawhip;
+    color: saddlebrown;
+    padding-left: 130px;
+    padding-right: 130px;
+    margin-top: 0px ;
+}
+header{
+    background-image: url(sok.jpg);
+    padding: 12px;
+    margin-top: 0px;
+}
+#szines{
+    border: 1px;
+}
+ul{
+    list-style-image: url(chili-pepper-icon.gif);
+}
+.bemutatas{
+    float: right;
+    margin: auto;
+    width: 65%;
+}
+.fajtak{
+    float: left;
+    width: 35%;
+    margin: auto;
+}
+table{
+    font-weight: bold;
+    margin: auto;
+    width: 300px;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid gray;
+    font-size: 18px;
+}
+th{
+    border: 1px solid gray;
+}
+.szelesseg{
+    width: 120px;
+    text-align: center;
+}
+#zold{
+    background-color: lime;
+}
+#vaj{
+    background-color: antiquewhite;
+}
+#piros{
+    background-color:indianred;
+}
+#lila{
+    background-color: blueviolet;
+}
+li{
+    border: 1px solid deepskyblue;
+    background-color: white;
+    margin: 10px;
+}
+a{
+    color: saddlebrown;
+    text-decoration: none;
+}
+a:visited{
+    color: saddlebrown;
+}
+p{
+    text-justify: auto;
+}
